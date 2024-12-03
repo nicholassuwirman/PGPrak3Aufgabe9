@@ -1,0 +1,15 @@
+debug/adresse.o
+debug/entfernungwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/navigationssystem.o
+debug/ort.o
+debug/ortanlegen.o
+debug/ortanzeigenwindow.o
+debug/pointofinterest.o
+debug/speichernladenwindow.o
+debug/moc_entfernungwindow.o
+debug/moc_mainwindow.o
+debug/moc_ortanlegen.o
+debug/moc_ortanzeigenwindow.o
+debug/moc_speichernladenwindow.o

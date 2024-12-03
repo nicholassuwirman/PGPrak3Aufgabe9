@@ -1,0 +1,15 @@
+release/adresse.o
+release/entfernungwindow.o
+release/main.o
+release/mainwindow.o
+release/navigationssystem.o
+release/ort.o
+release/ortanlegen.o
+release/ortanzeigenwindow.o
+release/pointofinterest.o
+release/speichernladenwindow.o
+release/moc_entfernungwindow.o
+release/moc_mainwindow.o
+release/moc_ortanlegen.o
+release/moc_ortanzeigenwindow.o
+release/moc_speichernladenwindow.o
